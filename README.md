@@ -156,7 +156,7 @@ def radix_sort(l,d, base=10):
 
 ## 3. Basic CNN
 패션아이템 다중 분류 모델
-Cross entropy -> MSE로 lost function을 변화시키는 모델 구현
+Cross entropy -> MSE로 Cost function을 변화시키는 모델 구현
 **one-hot encoding 사용**
 * 파이토치 
 
