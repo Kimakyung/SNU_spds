@@ -289,5 +289,7 @@ except Exception as e:
     print(e)
 ```
 - 그냥 읽으려고 할때 나타나는 error
+
 ![enter image description here](http://drive.google.com/uc?export=view&id=11ZcLNYHiJAFJQEJt8pWB8HdU0VBDRcgc)
+
 (진행 중)
